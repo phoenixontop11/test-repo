@@ -7,7 +7,7 @@ net diag
 netstat
 nslookup
 pathping
-path route
+
 
 ===== PROGRAM 2 =====
 
