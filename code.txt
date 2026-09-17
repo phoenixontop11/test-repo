@@ -3,7 +3,7 @@
 arp -a
 ipconfig
 hostname
-netdiag
+net diag
 netstat
 nslookup
 pathping
